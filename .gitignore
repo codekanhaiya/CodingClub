@@ -1,0 +1,40 @@
+# Node modules
+client/node_modules/
+server/node_modules/
+
+
+# Build output
+client/build/
+server/build/
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# OS-specific
+*.swp
+*.swo
+
+# Coverage reports
+coverage/
+client/coverage/
+server/coverage/
+
+# Optional lock files
+# Uncomment if you want to ignore lock files
+# package-lock.json
+# yarn.lock
+
+# IDEs
+.idea/
+*.iml
