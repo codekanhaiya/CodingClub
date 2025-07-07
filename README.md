@@ -93,7 +93,7 @@ CodingClub
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/coding-club.git
+git clone https://github.com/codekanhaiya/CodingClub.git
 cd coding-club
 ```
 
@@ -171,7 +171,10 @@ Handles errors like:
 
 ---
 ## 🙋‍♂️ Maintainer
+
 ### Kanhaiya Gupta
+
 [![Website Badge](https://img.shields.io/badge/Visit-Website-blue)](http://officialkanha.epizy.com/)
+
 📧 kanhaiyaguptaksg@gmail.com
 
